@@ -81,7 +81,7 @@
         </div>
     </div>
     <!-- 中间 -->
-  <router-view>我感冒了</router-view>
+  <router-view></router-view>
 
 
 
